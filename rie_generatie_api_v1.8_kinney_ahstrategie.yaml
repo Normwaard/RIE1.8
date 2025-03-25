@@ -9,7 +9,7 @@ info:
     ❌ Geen lege sjablonen per hoofdstuktype (op verzoek uitgesloten)
 
 servers:
-  - url: https://api.rbc-group.nl/v1
+  - url: https://jouwserver.nl/api
     description: Voorbeeld endpoint voor de RI&E Generatie API
 
 paths:
